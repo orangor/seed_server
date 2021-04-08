@@ -1,0 +1,12 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"雁江区","year":290,"months":100},
+        {"label":"安岳县","year":350,"months":250},
+        {"label":"乐至县","year":360,"months":203},
+        {"label":"市本级","year":450,"months":320},
+        {"label":"高新区","year":280,"months":310},
+        {"label":"临空经济区","year":550,"months":440}
+    ]
+  }
+  

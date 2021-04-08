@@ -1,0 +1,9 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"第一季度","lscl":525268,"nzwbzmj":1653912},
+        {"label":"第二季度","lscl":517268,"nzwbzmj":1660673},
+        {"label":"第三季度","lscl":519268,"nzwbzmj":1667434},
+        {"label":"第四季度","lscl":521268,"nzwbzmj":1674195}
+    ]
+} 

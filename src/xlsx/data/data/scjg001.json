@@ -1,0 +1,24 @@
+{
+    "responsecode":200,
+    "data":[
+      {"label":"农林牧渔","thisyear":542,"lastyear":567,"tbzf":-4.4},
+      {"label":"采矿业","thisyear":0,"lastyear":1,"tbzf":-100},
+      {"label":"制造业","thisyear":492,"lastyear":428,"tbzf":14.95},
+      {"label":"电力、热力燃气及水生产和供应业","thisyear":5,"lastyear":16,"tbzf":-68.75},
+      {"label":"建筑业","thisyear":426,"lastyear":280,"tbzf":52.14},
+      {"label":"批发零售","thisyear":4566,"lastyear":3430,"tbzf":32.77},
+      {"label":"交通运输、仓储、邮政业","thisyear":76,"lastyear":96,"tbzf":-20.83},
+      {"label":"住宿和餐饮","thisyear":1314,"lastyear":1538,"tbzf":-14.56},
+	  {"label":"信息传输、软件和信息技术服务业","thisyear":96,"lastyear":108,"tbzf":-11.11},
+      {"label":"金融业","thisyear":5,"lastyear":4,"tbzf":25.0},
+      {"label":"房地产业","thisyear":130,"lastyear":117,"tbzf":11.11},
+      {"label":"租赁和商务服务","thisyear":396,"lastyear":451,"tbzf":-12.19},
+	  {"label":"科学研究和技术服务业","thisyear":109,"lastyear":80,"tbzf":36.25},
+	  {"label":"水利、环境和公共设施管理业","thisyear":17,"lastyear":32,"tbzf":-46.88},
+	  {"label":"居民服务、修理和其他服务业","thisyear":613,"lastyear":599,"tbzf":2.33},
+	  {"label":"教育","thisyear":52,"lastyear":51,"tbzf":1.96},
+	  {"label":"卫生和社会工作","thisyear":34,"lastyear":35,"tbzf":-2.86},
+	  {"label":"文化、体育和娱乐业","thisyear":61,"lastyear":122,"tbzf":-50.0},
+	  {"label":"其他","thisyear":60,"lastyear":3,"tbzf":1900.0}
+    ]
+  }

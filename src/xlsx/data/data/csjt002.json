@@ -1,0 +1,10 @@
+{
+  "responsecode":200,
+  "data":[
+    {"yjcslc":553,"result":[
+      {"name":"雁江区","gd":200,"sd":100,"xd":200,"xiangd":80,"cd":20,"zydl":130},
+      {"name":"安岳县","gd":300,"sd":200,"xd":350,"xiangd":280,"cd":40,"zydl":150},
+      {"name":"乐至县","gd":400,"sd":300,"xd":380,"xiangd":320,"cd":60,"zydl":130}
+    ]}
+  ]
+}

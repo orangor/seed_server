@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+        {"name":"2020年第一季度累计市场主体(户)","scztsl":1234,"scztzzl":6,"qysl":123,"qyzzl":6,"hzssl":123,"hzszzl":6,"gshsl":123,"gshzzl":6,"myjjsl":123,"myjjzztbz":6,"myjjzzl":6},
+        {"name":"2020年第一季度累计资本总额(亿元)","scztsl":1234,"scztzzl":6,"qysl":123,"qyzzl":6,"hzssl":123,"hzszzl":6,"gshsl":123,"gshzzl":6,"myjjsl":123,"myjjzztbz":6,"myjjzzl":6},
+        {"name":"2020年第一季度新发展数(户)","scztsl":1234,"scztzzl":6,"qysl":123,"qyzzl":6,"hzssl":123,"hzszzl":6,"gshsl":123,"gshzzl":6,"myjjsl":123,"myjjzztbz":6,"myjjzzl":6},
+        {"name":"2020年第一季度新增资本总额(亿元)","scztsl":1234,"scztzzl":6,"qysl":123,"qyzzl":6,"hzssl":123,"hzszzl":6,"gshsl":123,"gshzzl":6,"myjjsl":123,"myjjzztbz":6,"myjjzzl":6},
+        {"name":"2020年第一季度注销市场主体(户)","scztsl":1234,"scztzzl":6,"qysl":123,"qyzzl":6,"hzssl":123,"hzszzl":6,"gshsl":123,"gshzzl":6,"myjjsl":123,"myjjzztbz":6,"myjjzzl":6}
+    ]
+  }
+  

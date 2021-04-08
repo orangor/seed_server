@@ -1,0 +1,11 @@
+{
+  "responsecode":200,
+  "data":[
+    { "value": 613, "name": "邻里关系","per":53.68},
+    { "value": 154, "name": "婚姻家庭","per":13.49},
+    { "value": 231, "name": "交通事故","per":20.23},
+    { "value": 29, "name": "边界争议","per":2.54},
+    { "value": 109, "name": "环境污染","per":9.54},
+    { "value": 6, "name": "财产纠纷","per":0.53}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "responsecode": 200,
+  "message": "登陆成功！",
+  "successful": true,
+  "data": {
+    "role": ["_home","_jjyx","_ggfw","_shgl","_scjg","_shsq","_hjbh","ggwsts","aqscts"],
+    "usertype": "2",
+    "userid": "78d2317c0f4241ea96a88be864203234",
+    "username": "test",
+    "authtoken": "eyJsb2dpbklkIjoiMTgzNTE4ODI4MTAiLCJhdXRoVHlwZSI6InBhc3N3b3JkIiwiYWNjb3VudFR5cGUiOiIzIiwicmVtb3RlSG9zdCI6IjE5Mi4xNjguOC40IiwiZXhwaXJlVGltZSI6MTU5Mjk4ODk1MzgzNiwicmFuZG9tIjoiMTI3NTM1MTg2MzYyMTk3NjA2NyIsInNpZ24iOiJhZjYzZjg4MDBiNDNiMzBiZmEyMmMzYTAyNDliMDUwZTRiNGE4ZjhmIiwidXNlclVpZCI6MTI3NTMyNDY2NTU5OTA1MzgyNn0=",
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJqdGkiOiI3OGQyMzE3YzBmNDI0MWVhOTZhODhiZTg2NDIwMzIzNCIsImlhdCI6MTU5MTAwMDYzNywic3ViIjoidGVzdCIsImV4cCI6MTU5MTAyOTQzN30.5xG6AcPaFhO_iEW4nEd3-u0VEwU1qrYG69nQPLKKbe8"
+  }
+}

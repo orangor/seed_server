@@ -1,0 +1,12 @@
+{
+  "responsecode":200,
+  "data":[
+    { "value":2325.2, "name": "雁江区","per":18},
+    { "value":2979.2, "name": "安岳县","per":23},
+    { "value":2514.5, "name": "乐至县","per":20},
+    { "value":2466.2, "name": "市本级","per":20},
+    { "value":1026, "name": "高新区","per":8},
+    { "value":1436.4, "name": "临空经济区","per":11}
+  ]
+}
+

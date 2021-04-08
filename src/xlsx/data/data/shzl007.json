@@ -1,0 +1,11 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"1","llgx":998,"hyjt":192,"jtsg":101,"bjzy":73,"hjwr":0,"ccjf":67,"zyjf":0,"htjf":0,"nctdcq":0},
+    {"label":"2","llgx":895,"hyjt":211,"jtsg":29,"bjzy":97,"hjwr":0,"ccjf":55,"zyjf":0,"htjf":0,"nctdcq":0},
+    {"label":"3","llgx":1131,"hyjt":202,"jtsg":87,"bjzy":98,"hjwr":0,"ccjf":54,"zyjf":0,"htjf":0,"nctdcq":0},
+    {"label":"4","llgx":941,"hyjt":188,"jtsg":116,"bjzy":62,"hjwr":0,"ccjf":37,"zyjf":0,"htjf":0,"nctdcq":0},
+    {"label":"5","llgx":748,"hyjt":194,"jtsg":109,"bjzy":29,"hjwr":0,"ccjf":35,"zyjf":0,"htjf":0,"nctdcq":0},
+    {"label":"6","llgx":613,"hyjt":154,"jtsg":109,"bjzy":29,"hjwr":0,"ccjf":6,"zyjf":0,"htjf":0,"nctdcq":0}
+  ]
+}

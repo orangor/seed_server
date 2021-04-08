@@ -1,0 +1,10 @@
+{
+  "responsecode":200,
+  "data":[
+    {"dkx":"农林牧渔业贷款","byye":12,"bncxze":22,"tqzjfd":3},
+    {"dkx":"农户农林牧渔业贷款","byye":56,"bncxze":44,"tqzjfd":"-"},
+    {"dkx":"农用物资和农副产品流通贷款","byye":8187864,"bncxze":238070,"tqzjfd":13.74},
+    {"dkx":"农村基础设施建设贷款","byye":4030024,"bncxze":105974,"tqzjfd":11.12},
+    {"dkx":"农产品加工贷款","byye":3394,"bncxze":"-","tqzjfd":-61.68}
+  ]
+}

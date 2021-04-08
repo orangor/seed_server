@@ -1,0 +1,12 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"2月","dxqydk":559043.50,"zxqydk":1983147.97,"xxqydk":1222751.94,"wxqydk":201073.31},
+    {"label":"3月","dxqydk":561043.50,"zxqydk":2016839.55,"xxqydk":1262085.39,"wxqydk":207414.85},
+    {"label":"4月","dxqydk":520864.79,"zxqydk":2515493.16,"xxqydk":1268693.29,"wxqydk":214029.97},
+    {"label":"5月","dxqydk":510818.79,"zxqydk":2829891.72,"xxqydk":1267469.08,"wxqydk":204854.98},
+    {"label":"6月","dxqydk":542968.79,"zxqydk":2806176.15,"xxqydk":1314231.05,"wxqydk":208275.87},
+    {"label":"7月","dxqydk":546474.78,"zxqydk":2790117.44,"xxqydk":1315256.92,"wxqydk":201683.62},
+    {"label":"8月","dxqydk":15168.00,"zxqydk":102826.00,"xxqydk":202375.00,"wxqydk":11197.00}
+  ]
+}

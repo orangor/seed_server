@@ -1,0 +1,10 @@
+{
+  "responsecode":200,
+  "data":[
+      {"mc":"重点研发","value":8,"per":8},
+      {"mc":"成果转化","value":5,"per":5},
+      {"mc":"科技扶贫","value":3,"per":3},
+      {"mc":"软科学","value":3,"per":3},
+      {"mc":"应用基础","value":15,"per":15}
+    ]
+}

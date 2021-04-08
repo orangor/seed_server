@@ -1,0 +1,25 @@
+{
+	"responsecode":200,
+	"data":
+    {
+        "gongyiyoueryuan_butie":1111,
+        "gongbanyoueryuan_buzhu":2222,
+        "zhongdengzhiyejiaoyu":3333,
+        "yiwujiaoyu":{
+            "xx":100,
+            "cz":200,
+            "tsjy":300
+        },
+        "gaozhong":{
+            "shengji":400,
+            "shiji":500,
+            "qita":600
+        },
+        "gaodengjiaoyu":{
+            "difang":777,
+            "shishu":888,
+            "shengshu":999
+        }
+    }
+  }
+

@@ -1,0 +1,11 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"1月","ybgg":200,"msxzc":300},
+    {"name":"2月","ybgg":200,"msxzc":300},
+    {"name":"3月","ybgg":200,"msxzc":300},
+    {"name":"4月","ybgg":200,"msxzc":300},
+    {"name":"5月","ybgg":200,"msxzc":300},
+    {"name":"6月","ybgg":200,"msxzc":300}
+  ]
+}

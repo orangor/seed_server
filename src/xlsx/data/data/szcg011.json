@@ -1,0 +1,11 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"公厕","value":94},
+    {"label":"公厕指示牌","value":76},
+    {"label":"化粪池","value":30},
+    {"label":"垃圾箱","value":45},
+    {"label":"垃圾转运站","value":12},
+    {"label":"宣传栏","value":6}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"1月","xyzzrk":146904,"xylcrk":733738},
+        {"label":"2月","xyzzrk":141744,"xylcrk":709695},
+        {"label":"3月","xyzzrk":147350,"xylcrk":771159},
+        {"label":"4月","xyzzrk":152175,"xylcrk":845264},
+        {"label":"5月","xyzzrk":155081,"xylcrk":849170},
+        {"label":"6月","xyzzrk":153923,"xylcrk":859786}
+    ]
+} 

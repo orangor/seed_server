@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+          {"label":"2015","ypmj":194,"gewymj":150},
+          {"label":"2016","ypmj":176.5,"gewymj":160},
+          {"label":"2017","ypmj":210.5,"gewymj":180},
+          {"label":"2018","ypmj":187,"gewymj":194},
+          {"label":"2019","ypmj":187,"gewymj":194}
+
+      ]
+    }

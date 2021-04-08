@@ -1,0 +1,22 @@
+{
+	"responsecode":200,
+	"data":
+    [
+        {
+            "name": "一般高中",
+            "value": 6
+        },
+        {
+            "name": "市级",
+            "value": 6
+        },
+        {
+            "name": "省一",
+            "value": 3
+        },
+        {
+            "name": "省二",
+            "value": 3
+        }
+    ]
+  }

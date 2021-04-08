@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"基础设施","value1":23,"value2":20354400},
+    {"label":"生态环保","value1":4,"value2":3413950},
+    {"label":"产业协作","value1":10,"value2":1345408}
+  ]
+}

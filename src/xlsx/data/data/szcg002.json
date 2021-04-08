@@ -1,0 +1,17 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"1","value":194},
+    {"label":"2","value":176},
+    {"label":"3","value":110},
+    {"label":"4","value":160},
+    {"label":"5","value":60},
+    {"label":"6","value":220},
+    {"label":"7","value":340},
+    {"label":"8","value":231},
+    {"label":"9","value":150},
+    {"label":"10","value":90},
+    {"label":"11","value":120},
+    {"label":"12","value":340}
+  ]
+}

@@ -1,0 +1,11 @@
+
+{
+    "responsecode": 200,
+    "data":[
+        {"name": "幼儿园", "value": 20},
+        {"name": "小学", "value": 300},
+        {"name": "初中", "value": 252},
+        {"name": "普高", "value": 170},
+        {"name": "中职", "value": 650}
+    ]
+}

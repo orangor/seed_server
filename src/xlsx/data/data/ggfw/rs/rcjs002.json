@@ -1,0 +1,30 @@
+{
+    "responsecode": 200,
+    "data":[
+        {
+          "name": "专业技术人才",
+          "value": 7.78,
+          "key": "zyjsrc"
+        },
+        {
+          "name": "引进稀缺人才",
+          "value": "",
+          "key": "yjxqrc"
+        },
+        {
+          "name": "职称评审委员会",
+          "value": 11,
+          "key": "zcpswyh"
+        },
+        {
+          "name": "省级专技继教基地",
+          "value": 2,
+          "key": "provincialBase"
+        },
+        {
+          "name": "市级专技继教基地",
+          "value": 0,
+          "key": "cityBase"
+        }
+      ]
+}

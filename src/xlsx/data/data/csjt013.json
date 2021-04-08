@@ -1,0 +1,19 @@
+{
+  "responsecode":200,
+  "data":[
+    {"jtsgzs":120,"jjss":116,"result":[
+      {"name":"1","value":20},
+      {"name":"2","value":60},
+      {"name":"3","value":40},
+      {"name":"4","value":30},
+      {"name":"5","value":20},
+      {"name":"6","value":30},
+      {"name":"7","value":40},
+      {"name":"8","value":50},
+      {"name":"9","value":60},
+      {"name":"10","value":50},
+      {"name":"11","value":40},
+      {"name":"12","value":20}
+    ]}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "responsecode":200,
+  "data":[
+      {"label":"1月","blajs":0,"sfe":0},
+      {"label":"2月","blajs":0,"sfe":0},
+      {"label":"3月","blajs":0,"sfe":0},
+      {"label":"4月","blajs":0,"sfe":0},
+      {"label":"5月","blajs":0,"sfe":0},
+      {"label":"6月","blajs":0,"sfe":0},
+      {"label":"7月","blajs":375,"sfe":198940}
+  ]
+} 
+  

@@ -1,0 +1,33 @@
+{
+  "responsecode":200,
+  "data":[
+    {"jyqh":782168,"result":[
+      {"name":"雁江区","value":219753,"per":28},
+      {"name":"安岳县","value":361832,"per":46},
+      {"name":"乐至县","value":200583,"per":27}
+    ]},
+    {"jyqqz":770180,"result":[
+      {"name":"雁江区","value":215698,"per":28},
+      {"name":"安岳县","value":361832,"per":46},
+      {"name":"乐至县","value":192650,"per":27}
+    ]},
+    {"jyqmj":3008769,"result":[
+      {"name":"雁江区","value":1190000,"per":39},
+      {"name":"安岳县","value":792367,"per":26},
+      {"name":"乐至县","value":1026402,"per":38}
+    ]}
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

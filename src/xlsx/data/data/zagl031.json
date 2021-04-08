@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"1月","value":56960},
+        {"label":"2月","value":31720},
+        {"label":"3月","value":30500},
+        {"label":"4月","value":138800},
+        {"label":"5月","value":51250},
+        {"label":"6月","value":49860}
+    ]
+} 

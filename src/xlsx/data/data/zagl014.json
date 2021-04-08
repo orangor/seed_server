@@ -1,0 +1,10 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"雁江区","ydjwt":300,"zakk":196,"twjk":357,"rljk":210},
+        {"label":"高新区","ydjwt":45,"zakk":0,"twjk":0,"rljk":0},
+        {"label":"安岳县","ydjwt":386,"zakk":28,"twjk":147,"rljk":0},
+        {"label":"乐至区","ydjwt":198,"zakk":24,"twjk":254,"rljk":0},
+        {"label":"市本级","ydjwt":283,"zakk":80,"twjk":1462,"rljk":219}
+    ]
+} 

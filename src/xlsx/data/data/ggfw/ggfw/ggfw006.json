@@ -1,0 +1,8 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"name":"高级职称","value": 12,"percent": 0.07},
+        {"name":"中级职称","value":53,"percent": 2.38},
+        {"name":"初级职称","value":76,"percent": 2.72}
+      ]
+}

@@ -1,0 +1,13 @@
+{
+  "responsecode":200,
+  "data":[
+      {"label":"松江镇","value":532},
+      {"label":"松涛镇","value":200},
+      {"label":"资溪街道办","value":650},
+      {"label":"莲花街道办","value":532},
+      {"label":"三资街道办","value":200},
+      {"label":"狮子山街道办","value":650},
+      {"label":"宝莲街道办","value":532}
+  ]
+} 
+  

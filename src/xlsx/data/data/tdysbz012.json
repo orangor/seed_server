@@ -1,0 +1,20 @@
+{
+  "responsecode":200,
+  "data":[
+    {"option":"sfdj","pfm":3050,"wym":203.33},
+    {"option":"sfdj","pfm":2130,"wym":142},
+    {"option":"sfdj","pfm":1575,"wym":105},
+    {"option":"sfdj","pfm":1200,"wym":80},
+    {"option":"sfdj","pfm":930,"wym":62},
+    {"option":"zzdj","pfm":1875,"wym":125},
+    {"option":"zzdj","pfm":1650,"wym":110},
+    {"option":"zzdj","pfm":1275,"wym":85},
+    {"option":"zzdj","pfm":900,"wym":60},
+    {"option":"zzdj","pfm":0,"wym":0},
+    {"option":"gydj","pfm":255,"wym":17},
+    {"option":"gydj","pfm":180,"wym":12},
+    {"option":"gydj","pfm":0,"wym":0},
+    {"option":"gydj","pfm":0,"wym":0},
+    {"option":"gydj","pfm":0,"wym":0}
+  ]
+}

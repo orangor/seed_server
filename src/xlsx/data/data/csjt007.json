@@ -1,0 +1,10 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"2016","value":90,"per":90},
+    {"name":"2017","value":80,"per":80},
+    {"name":"2018","value":70,"per":70},
+    {"name":"2019","value":60,"per":60},
+    {"name":"2020","value":50,"per":50}
+  ]
+}

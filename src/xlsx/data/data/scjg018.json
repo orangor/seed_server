@@ -1,0 +1,18 @@
+{
+  "responsecode":200,
+  "data":[
+    { "type": "C","icon_color":"#2becaf","name": "grdzqy", "label": "个人独资企业"},
+    { "type": "C","icon_color":"#f8d309", "name": "gfyxgsfgs", "label": "股份有限公司分公司(非上市、自然人投资或控股)" },
+    { "type": "C","icon_color":"#ff6600", "name": "nmzyhzs", "label": "农民专业合作社" },
+    { "type": "C","icon_color":"#0be0f4", "name": "qtyxzrgs", "label": "其他有限责任公司" },
+    { "type": "C","icon_color":"#e84832", "name": "qtyxzrgsfgs", "label": "其他有限责任公司分公司" },
+    { "type": "C","icon_color":"#a517ee", "name": "zrrtz", "label": "有限责任公司(自然人独资)" },
+    { "type": "C","icon_color":"#63dc0a", "name": "zrrtzhkg", "label": "有限责任公司(自然人投资或控股)" },
+    { "type": "C","icon_color":"#1774ff", "name": "zrrtzhkgdfrdz", "label": "有限责任公司(自然人投资或控股的法人独资)" },
+    { "type": "C","icon_color":"#76def0", "name": "fzrrtzhkgdfrdz", "label": "有限责任公司分公司(非自然人投资或控股的法人独资)" },
+    { "type": "C","icon_color":"#ad9300", "name": "zrrdz", "label": "有限责任公司分公司(自然人独资)" },
+    { "type": "C","icon_color":"#0e49a1", "name": "zrrdzhkg", "label": "有限责任公司分公司(自然人独资或控股)" }
+  ]
+}
+
+

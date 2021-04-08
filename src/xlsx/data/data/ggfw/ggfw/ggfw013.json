@@ -1,0 +1,8 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"name":"AA","value": 3},
+        {"name":"AAA","value":26},
+        {"name":"AAAA","value":2}
+      ]
+}

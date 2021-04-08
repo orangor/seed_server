@@ -1,0 +1,8 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"市本级","zj":26,"qz":6},
+        {"label":"安岳县","zj":11,"qz":4},
+        {"label":"乐至县","zj":5,"qz":3}
+    ]
+} 

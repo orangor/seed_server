@@ -1,0 +1,17 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"01","ydl":0.86},
+        {"label":"02","ydl":0.7},
+        {"label":"03","ydl":0.92},
+        {"label":"04","ydl":1.2},
+        {"label":"05","ydl":0.65},
+        {"label":"06","ydl":0.93},
+        {"label":"07","ydl":0.82},
+        {"label":"08","ydl":0.68},
+        {"label":"09","ydl":1.5},
+        {"label":"10","ydl":0.89},
+        {"label":"11","ydl":0.74},
+        {"label":"12","ydl":0.92}
+    ]
+} 

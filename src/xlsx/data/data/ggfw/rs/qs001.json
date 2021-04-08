@@ -1,0 +1,20 @@
+{
+    "responsecode": 200,
+    "data": [
+        {
+            "name": "城镇新增就业人数",
+            "value": 14057,
+            "key": "czxzjy"
+        },
+        {
+            "name": "城镇登记失业率",
+            "value": 3.74,
+            "key": "czdjsyl"
+        },
+        {
+            "name": "专业技术人才量",
+            "value": 7.78,
+            "key": "zyjsrcl"
+        }
+    ]
+}

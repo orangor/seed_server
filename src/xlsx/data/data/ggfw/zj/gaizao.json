@@ -1,0 +1,101 @@
+{
+  "responsecode": 200,
+  "data": {
+    "yuanluo": {
+      "yanjiang": {
+        "house": [
+          "--",
+          15139
+        ],
+        "building": [
+          "--",
+          "--"
+        ]
+      },
+      "anyue": {
+        "house": [
+          "--",
+          653
+        ],
+        "building": [
+          "--",
+          "--"
+        ]
+      },
+      "lezhi": {
+        "house": [
+          "--",
+          823
+        ],
+        "building": [
+          "--",
+          "--"
+        ]
+      }
+    },
+    "penghu": {
+      "yanjiang": {
+        "house": [
+          2695,
+          "--"
+        ],
+        "building": [
+          16.632,
+          "--"
+        ]
+      },
+      "anyue": {
+        "house": [
+          "--",
+          600
+        ],
+        "building": [
+          "--",
+          6.48
+        ]
+      },
+      "lezhi": {
+        "house": [
+          357,
+          "--"
+        ],
+        "building": [
+          3.95,
+          "--"
+        ]
+      }
+    },
+    "tudi": {
+      "yanjiang": {
+        "house": [
+          3013,
+          256
+        ],
+        "building": [
+          14.7,
+          7.29
+        ]
+      },
+      "anyue": {
+        "house": [
+          "--",
+          "--"
+        ],
+        "building": [
+          "--",
+          "--"
+        ]
+      },
+      "lezhi": {
+        "house": [
+          161,
+          "--"
+        ],
+        "building": [
+          1.4,
+          "--"
+        ]
+      }
+    }
+  }
+}

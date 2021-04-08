@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"整改中","value":30},
+    {"name":"已整改","value":60},
+    {"name":"逾期未整改","value":10}
+  ]
+}

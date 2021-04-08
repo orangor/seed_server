@@ -1,0 +1,12 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"1月","xsaj":311,"zaaj":464},
+        {"label":"2月","xsaj":170,"zaaj":390},
+        {"label":"3月","xsaj":260,"zaaj":448},
+        {"label":"4月","xsaj":331,"zaaj":398},
+        {"label":"5月","xsaj":333,"zaaj":571},
+        {"label":"6月","xsaj":318,"zaaj":538}
+    ]
+} 
+

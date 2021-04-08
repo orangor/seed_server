@@ -1,0 +1,9 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"2015","jrjgdkye":505.08,"yrjgckye":958.26},
+        {"label":"2016","jrjgdkye":522.64,"yrjgckye":1122.96},
+        {"label":"2017","jrjgdkye":598.67,"yrjgckye":1357.09},
+        {"label":"2018","jrjgdkye":707.7,"yrjgckye":1419.7}
+    ]
+}

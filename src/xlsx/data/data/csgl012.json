@@ -1,0 +1,14 @@
+{
+  "responsecode":200,
+  "data":[
+      {"name":"G11综合公园","value":8.51},
+      {"name":"G12社区公园","value":0.17},
+      {"name":"G13专类公园","value":13.64},
+      {"name":"G14游园","value":7.91},
+      {"name":"G2防护绿地","value":20.51},
+      {"name":"G3广场绿地","value":3.78},
+      {"name":"RG居住绿地","value":12.29}
+  ]
+} 
+
+  

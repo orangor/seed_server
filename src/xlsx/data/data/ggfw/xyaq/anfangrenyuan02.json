@@ -1,0 +1,11 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"name":"城市中小学","value":18,"rate": 100},
+        {"name":"城镇中小学","value":160,"rate": 100},
+        {"name":"乡村中小学","value":283,"rate": 100},
+        {"name":"城市幼儿园","value":4,"rate": 8.16},
+        {"name":"城镇幼儿园","value":52,"rate": 22.51},
+        {"name":"乡村幼儿园","value":40,"rate": 11.14}
+      ]
+}

@@ -1,0 +1,8 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"name":"公共租赁房","value":2250},
+        {"name":"经济适用住房","value":1860},
+        {"name":"限价商品住房","value":456}
+      ]
+}

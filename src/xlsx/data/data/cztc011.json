@@ -1,0 +1,9 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"成都","value":200},
+    {"label":"德阳","value":350},
+    {"label":"眉山","value":250},
+    {"label":"资阳","value":100}
+  ]
+}

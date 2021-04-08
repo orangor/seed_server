@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"1","ztsll":532,"gqdsll":300},
+        {"label":"2","ztsll":200,"gqdsll":410},
+        {"label":"3","ztsll":650,"gqdsll":250},
+        {"label":"4","ztsll":532,"gqdsll":420},
+        {"label":"5","ztsll":200,"gqdsll":180},
+        {"label":"6","ztsll":650,"gqdsll":270}
+    ]
+}

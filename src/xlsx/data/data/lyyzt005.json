@@ -1,0 +1,7 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"商品林地","value":319,"per":30},
+    {"name":"公益用地","value":644,"per":60}
+  ]
+}

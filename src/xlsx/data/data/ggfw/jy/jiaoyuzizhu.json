@@ -1,0 +1,27 @@
+{
+	"responsecode":200,
+	"data":
+    {
+        "gongyiyoueryuan_butie":14000,
+        "gongbanyoueryuan_buzhu":2222,
+        "zhongdengzhiyejiaoyu":10.3,
+        "jyzz1":{
+            "xq":870.5,
+            "jjkn":3261.16,
+            "nc":7659.86,
+            "zdzyjy":1882.62
+        },
+        "jyzz2":{
+            "zdzyjygjzxj":275.08,
+            "zzmzsf": "",
+            "ptgzgjzxj":2193,
+            "ptgzmxf":910.06
+        },
+        "jyzz3":{
+            "hongzhi":"",
+            "bangkun":"",
+            "syd":4331.33
+        }
+    }
+  }
+

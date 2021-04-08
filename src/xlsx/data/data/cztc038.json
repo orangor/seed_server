@@ -1,0 +1,11 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"本市级","value1":5,"value2":33375},
+    {"label":"雁江区","value1":7,"value2":1379722},
+    {"label":"安岳县","value1":0,"value2":33375},
+    {"label":"乐至县","value1":7,"value2":332000},
+    {"label":"高新区","value1":6,"value2":121222},
+    {"label":"临空经济区","value1":4,"value2":114311}
+  ]
+}

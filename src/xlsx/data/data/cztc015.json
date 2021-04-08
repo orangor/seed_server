@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"制造业","value1":42,"value2":12365382},
+    {"label":"现代服务业","value1":13,"value2":1665400},
+    {"label":"现代农业","value1":18,"value2":1499300}
+  ]
+}

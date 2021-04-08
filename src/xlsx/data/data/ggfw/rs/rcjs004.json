@@ -1,0 +1,25 @@
+{
+    "responsecode": 200,
+    "data":[
+        {
+          "name": "技能人才",
+          "value": 18,
+          "key": "jnrc"
+        },
+        {
+          "name": "落户人才认证情况",
+          "value": "",
+          "key": "lhrc"
+        },
+        {
+          "name": "国家、省、市一类职业技能大赛",
+          "value": 118000,
+          "key": "gjss"
+        },
+        {
+          "name": "鉴定合格并取得国家职业资格证书",
+          "value": 18,
+          "key": "jdhg"
+        }
+      ]
+}

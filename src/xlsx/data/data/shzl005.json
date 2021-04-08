@@ -1,0 +1,17 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"1","tfsjbg":82,"sqmysj":2008,"zcfg":2340,"cytsrq":418,"cyzafk":1290,"mdqj":714,"qt":4203},
+    {"label":"2","tfsjbg":103,"sqmysj":1319,"zcfg":2269,"cytsrq":283,"cyzafk":1055,"mdqj":4440,"qt":4907},
+    {"label":"3","tfsjbg":60,"sqmysj":2168,"zcfg":2005,"cytsrq":404,"cyzafk":1246,"mdqj":857,"qt":4234},
+    {"label":"4","tfsjbg":58,"sqmysj":2412,"zcfg":2363,"cytsrq":475,"cyzafk":1427,"mdqj":858,"qt":3752},
+    {"label":"5","tfsjbg":56,"sqmysj":2268,"zcfg":2319,"cytsrq":377,"cyzafk":1435,"mdqj":801,"qt":3509},
+    {"label":"6","tfsjbg":46,"sqmysj":2052,"zcfg":1851,"cytsrq":379,"cyzafk":1360,"mdqj":748,"qt":3334},
+    {"label":"7","tfsjbg":0,"sqmysj":0,"zcfg":0,"cytsrq":0,"cyzafk":0,"mdqj":0,"qt":0},
+    {"label":"8","tfsjbg":0,"sqmysj":0,"zcfg":0,"cytsrq":0,"cyzafk":0,"mdqj":0,"qt":0},
+    {"label":"9","tfsjbg":0,"sqmysj":0,"zcfg":0,"cytsrq":0,"cyzafk":0,"mdqj":0,"qt":0},
+    {"label":"10","tfsjbg":0,"sqmysj":0,"zcfg":0,"cytsrq":0,"cyzafk":0,"mdqj":0,"qt":0},
+    {"label":"11","tfsjbg":0,"sqmysj":0,"zcfg":0,"cytsrq":0,"cyzafk":0,"mdqj":0,"qt":0},
+    {"label":"12","tfsjbg":0,"sqmysj":0,"zcfg":0,"cytsrq":0,"cyzafk":0,"mdqj":0,"qt":0}
+  ]
+}

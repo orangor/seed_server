@@ -1,0 +1,13 @@
+{
+  "responsecode":200,
+  "data":[
+    {"gsglzlc":257,"result":[
+      {"name":"国道","value":10},
+      {"name":"省道","value":30},
+      {"name":"县道","value":30},
+      {"name":"乡道","value":10},
+      {"name":"村道","value":10},
+      {"name":"专用道路","value":10}
+    ]}
+  ]
+}

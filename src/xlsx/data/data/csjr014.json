@@ -1,0 +1,9 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"政策性银行","ymye":408831.6,"jnczz":10.1,"tbzz":22.6},
+    {"label":"大型国有银行","ymye":185458.9,"jnczz":18.4,"tbzz":-51.7},
+    {"label":"股份制商业银行","ymye":435137.8,"jnczz":30.8,"tbzz":17.8},
+    {"label":"地方法人金融机构","ymye":487512.2,"jnczz":7.0,"tbzz":5.9}
+  ]
+}

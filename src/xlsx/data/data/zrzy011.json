@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+      {"value": 210, "label": "雁江区"},
+      {"value": 451.3, "label": "安岳县"},
+      {"value": 238.2, "label": "乐至县"}
+  ]
+} 

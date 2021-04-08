@@ -1,0 +1,10 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"2015","value":163.2},
+    {"name":"2016","value":164.7},
+    {"name":"2017","value":165.4},
+    {"name":"2018","value":166.1},
+    {"name":"2019","value":166.1}
+  ]
+}

@@ -1,0 +1,8 @@
+{
+    "responsecode":200,
+    "data":[
+      {"label":"雁江区","sygm":194,"ypbgm":80},
+      {"label":"安岳县","sygm":176.5,"ypbgm":90},
+      {"label":"乐至县","sygm":210.5,"ypbgm":60}
+    ]
+  } 

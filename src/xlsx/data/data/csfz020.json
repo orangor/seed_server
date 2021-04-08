@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"排查纠纷","value":2041},
+    {"name":"调处纠纷","value":1984},
+    {"name":"调处成功","value":1944}
+  ]
+} 

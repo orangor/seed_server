@@ -1,0 +1,55 @@
+{
+    "responsecode": 200,
+    "data": [
+        {
+            "name": "全国模范园区",
+            "value": 0,
+            "key": "qgmfyq"
+        },
+        {
+            "name": "全国模范企业",
+            "value": 0,
+            "key": "qgmfqy"
+        },
+        {
+            "name": "省模范街道",
+            "value": 0,
+            "key": "pmfjd"
+        },
+        {
+            "name": "省模范园区",
+            "value": 0,
+            "key": "pmfyq"
+        },
+        {
+            "name": "省模范企业",
+            "value": 0,
+            "key": "pmfqy"
+        },
+        {
+            "name": "市模范企业",
+            "value": 0,
+            "key": "smfqy"
+        },
+        {
+            "name": "市模范园区",
+            "value": 0,
+            "key": "smfyq"
+        },
+        {
+            "name": "市模范社区",
+            "value": 0,
+            "key": "smfsq"
+        },
+        {
+            "name": "市模范街道",
+            "value": 0,
+            "key": "smfjd"
+        },
+        {
+            "name": "市模范区县",
+            "value": 0,
+            "key": "smfqx"
+        }
+    ]
+}

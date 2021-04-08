@@ -1,0 +1,60 @@
+{
+  "responsecode":200,
+  "data":[
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市发改委"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市城管委"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市旅游局"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市工商局"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市水务局"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市农委"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市公安局"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市交委"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市卫计委"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "环保局"
+    },
+    {
+      "state": "1",
+      "color": "#FAFEFA",
+      "text": "市安监局"
+    }
+  ]
+}

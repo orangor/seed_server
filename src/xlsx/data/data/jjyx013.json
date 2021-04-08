@@ -1,0 +1,10 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"2015","sczz":0.86},
+        {"label":"2016","sczz":0.7},
+        {"label":"2017","sczz":0.92},
+        {"label":"2018","sczz":1.2},
+        {"label":"2019","sczz":0.65}
+    ]
+} 

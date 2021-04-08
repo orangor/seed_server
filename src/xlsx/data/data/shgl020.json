@@ -1,0 +1,19 @@
+{
+  "responsecode":200,
+  "data":[
+    {"hdfn":232,"hdsn":341,"result":[
+      {"label":"1","value1":532,"value2":532},
+      {"label":"2","value1":200,"value2":342},
+      {"label":"3","value1":340,"value2":267},
+      {"label":"4","value1":219,"value2":231},
+      {"label":"5","value1":223,"value2":211},
+      {"label":"6","value1":347,"value2":432},
+      {"label":"7","value1":765,"value2":567},
+      {"label":"8","value1":291,"value2":121},
+      {"label":"9","value1":412,"value2":111},
+      {"label":"10","value1":342,"value2":512},
+      {"label":"11","value1":431,"value2":444},
+      {"label":"12","value1":512,"value2":329}
+    ]}
+]
+}

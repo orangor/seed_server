@@ -1,0 +1,41 @@
+{
+    "responsecode": 200,
+    "data": [
+        [
+            {
+                "name": "当期立案受理案件数",
+                "value": 438,
+                "key": "dqlaslaj"
+            },
+            {
+                "name": "十人以上劳动争议量",
+                "value": 0,
+                "key": "srysldzy"
+            }
+        ],
+        [
+            {
+                "name": "当期立案受理案件数",
+                "value": 268,
+                "key": "dqlaslaj"
+            },
+            {
+                "name": "十人以上劳动争议量",
+                "value": 0,
+                "key": "srysldzy"
+            }
+        ],
+        [
+            {
+                "name": "当期立案受理案件数",
+                "value": 172,
+                "key": "dqlaslaj"
+            },
+            {
+                "name": "十人以上劳动争议量",
+                "value": 0,
+                "key": "srysldzy"
+            }
+        ]
+    ]
+}

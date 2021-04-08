@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"1月","blblaj":12,"llkfxaj":173},
+        {"label":"2月","blblaj":11,"llkfxaj":93},
+        {"label":"3月","blblaj":10,"llkfxaj":151},
+        {"label":"4月","blblaj":9,"llkfxaj":181},
+        {"label":"5月","blblaj":12,"llkfxaj":154},
+        {"label":"6月","blblaj":4,"llkfxaj":164}
+    ]
+} 

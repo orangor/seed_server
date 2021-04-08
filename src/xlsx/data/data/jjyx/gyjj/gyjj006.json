@@ -1,0 +1,17 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"name":"1月","value":{"jn":75,"qn":78}},
+        {"name":"2月","value":{"jn":68,"qn":29}},
+        {"name":"3月","value":{"jn":92,"qn":49}},
+        {"name":"4月","value":{"jn":46,"qn":38}},
+        {"name":"5月","value":{"jn":56,"qn":40}},
+        {"name":"6月","value":{"jn":36,"qn":54}},
+        {"name":"7月","value":{"jn":0,"qn":0}},
+        {"name":"8月","value":{"jn":0,"qn":0}},
+        {"name":"9月","value":{"jn":0,"qn":0}},
+        {"name":"10月","value":{"jn":0,"qn":0}},
+        {"name":"11月","value":{"jn":0,"qn":0}},
+        {"name":"12月","value":{"jn":0,"qn":0}}
+    ]
+}

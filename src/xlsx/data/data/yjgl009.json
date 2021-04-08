@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"雁江区","zcs":120,"ccyhs":123,"yzgs":123,"zgl":100},
+    {"name":"乐至县","zcs":130,"ccyhs":131,"yzgs":131,"zgl":100},
+    {"name":"安岳县","zcs":140,"ccyhs":143,"yzgs":143,"zgl":100}
+  ]
+}

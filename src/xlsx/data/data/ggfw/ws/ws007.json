@@ -1,0 +1,8 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"area": "雁江区", "ryrs": 17.41, "cyrs":17.25,"sss": 0},
+        {"area": "乐至县", "ryrs": 7.52, "cyrs":7.41,"sss": 0},
+        {"area": "安岳县", "ryrs": 18.8, "cyrs":18.36,"sss": 0.04}
+      ]
+}

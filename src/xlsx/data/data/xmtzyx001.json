@@ -1,0 +1,15 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"装备制造","value":78},
+    {"name":"生物医药","value":56},
+    {"name":"电子信息","value":34},
+    {"name":"食品饮料","value":23},
+    {"name":"纺织鞋服","value":76},
+    {"name":"现代物流","value":12},
+    {"name":"现代商贸","value":98},
+    {"name":"文化旅游","value":49},
+    {"name":"健康医养","value":82},
+    {"name":"现代农业","value":82}
+  ]          
+}

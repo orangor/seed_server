@@ -1,0 +1,14 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"name":"中毒","value":2},
+        {"name":"交通事故","value":6},
+        {"name":"屋倒","value":1},
+        {"name":"溺水","value":7},
+        {"name":"猝死","value":6},
+        {"name":"突发疾病死","value":0},
+        {"name":"自杀","value":0},
+        {"name":"高坠","value":2},
+        {"name":"其他","value":1}
+      ]
+}

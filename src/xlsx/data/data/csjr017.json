@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"农、林、牧、鱼业","dxbyye":1211,"dxzze":233,"dxzj":10,"zxbyye":3221,"zxzze":342,"zxzj":32,"xxbyye":231,"xxzze":111,"xxzj":322,"wxbyye":222,"wxzze":321,"wxzj":33},
+    {"name":"采矿业","dxbyye":1211,"dxzze":233,"dxzj":10,"zxbyye":3221,"zxzze":342,"zxzj":32,"xxbyye":231,"xxzze":111,"xxzj":322,"wxbyye":222,"wxzze":321,"wxzj":33},
+    {"name":"电力、热力、燃气及水生产和供应业","dxbyye":1211,"dxzze":233,"dxzj":10,"zxbyye":3221,"zxzze":342,"zxzj":32,"xxbyye":231,"xxzze":111,"xxzj":322,"wxbyye":222,"wxzze":321,"wxzj":33}
+  ]
+}

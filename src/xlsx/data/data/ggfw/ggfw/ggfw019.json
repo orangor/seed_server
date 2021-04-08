@@ -1,0 +1,10 @@
+{
+    "responsecode":200,
+    "data":{
+        "list": [
+            {"name":"智能气表","value":300,"percent": 43},
+            {"name":"其他","value":80,"percent": 57}
+          ],
+        "qbzl": 164306
+    }
+  } 

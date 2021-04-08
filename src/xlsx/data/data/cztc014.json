@@ -1,0 +1,8 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"交通设施","value1":23,"value2":20354400},
+    {"label":"水利设施","value1":4,"value2":3413950},
+    {"label":"市场设施","value1":10,"value2":1345408}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "responsecode": 200,
+  "data": [
+    {
+      "name": "财政类",
+      "per": 100,
+      "value": 58,
+      "list": [
+        {
+          "name": "预算执行",
+          "per": 40,
+          "value": 43
+        },
+        {
+          "name": "专项资金",
+          "per": 56,
+          "value": 13
+        },
+        {
+          "name": "投资",
+          "per": 56,
+          "value": 2
+        }
+      ]
+    },
+    {
+      "name": "社保基金类",
+      "per": 0,
+      "value": 0,
+      "list": []
+    },
+    {
+      "name": "企业金融类",
+      "per": 0,
+      "value": 0,
+      "list": []
+    }
+  ]
+}

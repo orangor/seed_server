@@ -1,0 +1,9 @@
+{
+    "responsecode": 200,
+    "data":[
+      {"name":"实时排号量","value":3465},
+      {"name":"正在办理","value":120},
+      {"name":"当前等待","value":366},
+      {"name":"当日办结量","value":6465}
+    ]
+}

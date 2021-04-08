@@ -1,0 +1,7 @@
+{
+    "responsecode":200,
+    "data":[
+      {"name":"今年累计办结数","value":64},
+      {"name":"办结事件压减天数","value":12}
+    ]
+  } 

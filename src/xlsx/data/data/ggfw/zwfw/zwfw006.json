@@ -1,0 +1,34 @@
+{
+    "responsecode": 200,
+    "data":[
+      {
+        "DateType": "ThisYear",
+        "Accept": 12,
+        "Handle": 4,
+        "Wait": 8,
+        "OverTime": 0
+      },
+      {
+        "DateType": "ThisMonth",
+        "Accept": 12,
+        "Handle": 4,
+        "Wait": 8,
+        "OverTime": 0
+      },
+      {
+        "DateType": "ThisWeek", 
+        "Accept": 15,
+        "Handle": 7,
+        "Wait": 8,
+        "OverTime": 1
+      },
+      {
+        "DateType": "ThisDay", 
+        "Accept": 2,
+        "Handle": 0,
+        "Wait": 2,
+        "OverTime": 0
+      }
+    ]
+}
+

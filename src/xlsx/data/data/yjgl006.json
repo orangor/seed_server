@@ -1,0 +1,17 @@
+{
+    "responsecode":200,
+    "data":[
+        {"name":"2009","yhs":210,"tbzf":25},
+        {"name":"2010","yhs":220,"tbzf":35},
+        {"name":"2011","yhs":210,"tbzf":45},
+        {"name":"2012","yhs":230,"tbzf":25},
+        {"name":"2013","yhs":240,"tbzf":35},
+        {"name":"2014","yhs":260,"tbzf":25},
+        {"name":"2015","yhs":210,"tbzf":29},
+        {"name":"2016","yhs":270,"tbzf":35},
+        {"name":"2017","yhs":210,"tbzf":25},
+        {"name":"2018","yhs":280,"tbzf":55},
+        {"name":"2019","yhs":210,"tbzf":45},
+        {"name":"2020","yhs":220,"tbzf":25}
+    ]
+}

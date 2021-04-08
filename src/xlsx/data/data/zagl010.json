@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"1月","zhxsfzry":99,"cczawfry":228},
+        {"label":"2月","zhxsfzry":59,"cczawfry":392},
+        {"label":"3月","zhxsfzry":93,"cczawfry":409},
+        {"label":"4月","zhxsfzry":114,"cczawfry":182},
+        {"label":"5月","zhxsfzry":146,"cczawfry":293},
+        {"label":"6月","zhxsfzry":133,"cczawfry":365}
+    ]
+} 

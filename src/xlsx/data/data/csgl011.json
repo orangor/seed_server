@@ -1,0 +1,10 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"G1-公园绿地","value":469.39},
+        {"label":"G2-防护绿地","value":243.5},
+        {"label":"G3-广场绿地","value":10.28},
+        {"label":"XG-附属绿地","value":628.17},
+        {"label":"EG-区域绿地","value":433.57}
+    ]
+} 

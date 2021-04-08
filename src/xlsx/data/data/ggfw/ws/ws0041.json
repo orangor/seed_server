@@ -1,0 +1,14 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"month": 1, "zybsl": 0.57, "jzbsl":0.22},
+        {"month": 2, "zybsl": 0.70, "jzbsl":0.23},
+        {"month": 3, "zybsl": 0.39, "jzbsl":0.29},
+        {"month": 4, "zybsl": 0.39, "jzbsl":0.31},
+        {"month": 5, "zybsl": 0.48, "jzbsl":0.14},
+        {"month": 6, "zybsl": 0.44, "jzbsl":0.05},
+        {"month": 7, "zybsl": 0.44, "jzbsl":0.16},
+        {"month": 8, "zybsl": 0.35, "jzbsl":0.15},
+        {"month": 9, "zybsl": 0.48, "jzbsl":0.09}
+      ]
+}

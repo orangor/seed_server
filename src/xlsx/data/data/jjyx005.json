@@ -1,0 +1,19 @@
+{
+    "responsecode":200,
+    "data":[
+      {"label":"01","tze":194,"tzezs":7.83,"xfe":150,"xfezs":4.83,"jcke":190,"jckezs":7.83},
+      {"label":"02","tze":176.5,"tzezs":7.65,"xfe":160,"xfezs":7.83,"jcke":120,"jckezs":6.83},
+      {"label":"03","tze":210.5,"tzezs":8.0,"xfe":180,"xfezs":6.83,"jcke":200,"jckezs":8.83},
+      {"label":"04","tze":187,"tzezs":7.2,"xfe":194,"xfezs":7.83,"jcke":130,"jckezs":6.83},
+      {"label":"05","tze":194,"tzezs":7.83,"xfe":150,"xfezs":4.83,"jcke":190,"jckezs":7.83},
+      {"label":"06","tze":176.5,"tzezs":7.65,"xfe":160,"xfezs":7.83,"jcke":120,"jckezs":6.83},
+      {"label":"07","tze":210.5,"tzezs":8.0,"xfe":180,"xfezs":6.83,"jcke":200,"jckezs":8.83},
+      {"label":"08","tze":187,"tzezs":7.2,"xfe":194,"xfezs":7.83,"jcke":130,"jckezs":6.83},      
+      {"label":"09","tze":194,"tzezs":7.83,"xfe":150,"xfezs":4.83,"jcke":190,"jckezs":7.83},
+      {"label":"10","tze":176.5,"tzezs":7.65,"xfe":160,"xfezs":7.83,"jcke":120,"jckezs":6.83},
+      {"label":"11","tze":210.5,"tzezs":8.0,"xfe":180,"xfezs":6.83,"jcke":200,"jckezs":8.83},
+      {"label":"12","tze":187,"tzezs":7.2,"xfe":194,"xfezs":7.83,"jcke":130,"jckezs":6.83}
+
+
+  ]
+}

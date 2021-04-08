@@ -1,0 +1,9 @@
+{
+  "responsecode":200,
+  "data":[
+      {"name":"xx监测点","num":12,"type":"正常"},
+      {"name":"xx监测点","num":23,"type":"正常"},
+      {"name":"xx监测点","num":45,"type":"异常"},
+      {"name":"xx监测点","num":79,"type":"正常"}
+  ]
+}

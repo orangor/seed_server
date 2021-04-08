@@ -1,0 +1,53 @@
+{
+  "responsecode": 200,
+  "data": [
+    {
+      "type": 1,
+      "name": "经济运行",
+      "url": "jjyx",
+      "sec": [
+        {"name": "财政一览","url": "czyl","active": 0},
+        {"name": "农业经济","url": "nyjj","active": 0},
+        {"name": "工业经济","url": "gyjj","active": 0},
+        {"name": "服务业经济","url": "fwyjj","active": 0},
+        {"name": "项目投资运行","url": "xmtzyx","active": 0},
+        {"name": "审计","url": "sj","active": 0},
+        {"name": "城市金融","url": "csjr","active": 0}
+      ]
+    },
+    {"type": 1,"name": "市场监管","url": "scjg"},
+    {"type": 1,"name": "社会管理","url": "shgl",
+      "sec": [
+        {"name": "城市交通","url": "csjt","active": 0},
+        {"name": "城市管理","url": "csgl","active": 0},
+        {"name": "治安管理","url": "zagl","active": 0},
+        {"name": "社会治理","url": "shzl","active": 0},
+        {"name": "社会诉求","url": "shsq","active": 0},
+        {"name": "应急管理","url": "yjgl","active": 0},
+        {"name": "城市法治","url": "csfz","active": 0}
+      ]
+    },
+    {"type": 1,"name": "公共服务","url": "ggfw",
+      "sec": [
+        {"name": "政务服务","url": "zwfw","active": 0},
+        {"name": "教育","url": "jy","active": 0},
+        {"name": "卫生","url": "ws","active": 0},
+        {"name": "医保监控","url": "ybjk","active": 0},
+        {"name": "住建","url": "zj","active": 0},
+        {"name": "人社","url": "rs","active": 1},
+        {"name": "科技创新","url": "kjcx","active": 0}
+      ]
+    },
+    {"type": 1,"name": "环境保护","url": "hjbh",
+      "sec": [
+        {"name": "大气环境质量","url": "dqhjzl","active": 0},
+        {"name": "林业一张图","url": "lyyzt","active": 0}
+      ]
+    },
+    {"type": 1,"name": "同城发展","url": "tcfz"},
+    {"type": 0,"name": "部门系统及数据接入","url": "bmjr"},
+    {"type": 0,"name": "自然资源","url": "zrzy","active": 0},
+    {"type": 0,"name": "土地要素保障","url": "tdysbz"},
+    {"type": 0,"name": "国土空间规划","url": "gtkjgh"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "responsecode":200,
+  "data":[
+    {"jdcbyl":55676,"result":[
+      {"name":"载客汽车","value":25},
+      {"name":"载货汽车","value":25},
+      {"name":"挂车","value":25},
+      {"name":"摩托车","value":25}
+    ]}
+  ]
+}

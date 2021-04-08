@@ -1,0 +1,13 @@
+{
+    "responsecode": 200,
+    "data":[
+        {"name":"事项总量","value":3465},
+        {"name":"办件总量","value":3465},
+        {"name":"综合执法量","value":3465},
+        {"name":"今日办件量","value":3465},
+        {"name":"服务点位","value":3465},
+        {"name":"市级5个区市县","value":10},
+        {"name":"街道","value":567},
+        {"name":"社区","value":667}
+      ]
+}

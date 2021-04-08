@@ -1,0 +1,9 @@
+{
+    "responsecode":200,
+    "data":[
+      {"name":"汽车","value":54.61},
+      {"name":"摩托车","value":44.92},
+      {"name":"农用运输车","value":0.21},
+      {"name":"挂车","value":0.26}
+    ]
+  } 

@@ -1,0 +1,8 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"雁江区","man":550667,"woman":516032},
+        {"label":"安岳县","man":813986,"woman":732323},
+        {"label":"乐至县","man":417785,"woman":379065}
+    ]
+} 

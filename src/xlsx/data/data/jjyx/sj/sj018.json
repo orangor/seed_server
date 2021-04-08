@@ -1,0 +1,33 @@
+{
+  "responsecode": 200,
+  "data": [
+    {"name": "财政类", "per": 20,"value":15,
+      "list":[
+        {"name":"资产质量不实","per":40,"value":4},
+        {"name":"资产闲置","per":56,"value":12},
+        {"name":"企业金融类","per":34,"value":10}
+      ]
+    },
+    {"name": "社会保险基金类", "per": 34,"value":45,
+      "list":[
+        {"name":"资产质量不实","per":40,"value":4},
+        {"name":"资产闲置","per":56,"value":12},
+        {"name":"企业金融类","per":34,"value":10}
+      ]
+    },
+    {"name": "企业金融类", "per": 34,"value":45,
+      "list":[
+        {"name":"资产质量不实","per":40,"value":4},
+        {"name":"资产闲置","per":56,"value":12},
+        {"name":"企业金融类","per":34,"value":10}
+      ]
+    },
+    {"name": "金融责任审计", "per": 34,"value":45,
+      "list":[
+        {"name":"资产质量不实","per":40,"value":4},
+        {"name":"资产闲置","per":56,"value":12},
+        {"name":"企业金融类","per":34,"value":10}
+      ]
+    }
+  ]
+}

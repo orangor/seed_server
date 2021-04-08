@@ -1,0 +1,12 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"资阳市公安局","mjzs":475,"pcsmjs":"—"},
+        {"label":"雁江区公安分局","mjzs":505,"pcsmjs":275},
+        {"label":"高新区公安分局","mjzs":75,"pcsmjs":"—"},
+        {"label":"安岳县公安局","mjzs":547,"pcsmjs":282},
+        {"label":"乐至县公安局","mjzs":345,"pcsmjs":160}
+    ]
+}
+
+

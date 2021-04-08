@@ -1,0 +1,17 @@
+{
+  "responsecode":200,
+  "data":[
+    {"label":"1月","ztsll":210,"gqdsll":120},
+    {"label":"2月","ztsll":123,"gqdsll":231},
+    {"label":"3月","ztsll":345,"gqdsll":230},
+    {"label":"4月","ztsll":98,"gqdsll":270},
+    {"label":"5月","ztsll":231,"gqdsll":310},
+    {"label":"6月","ztsll":124,"gqdsll":456},
+    {"label":"7月","ztsll":233,"gqdsll":234},
+    {"label":"8月","ztsll":456,"gqdsll":342},
+    {"label":"9月","ztsll":234,"gqdsll":231},
+    {"label":"10月","ztsll":321,"gqdsll":123},
+    {"label":"11月","ztsll":357,"gqdsll":437},
+    {"label":"12月","ztsll":210,"gqdsll":294}
+  ]
+}

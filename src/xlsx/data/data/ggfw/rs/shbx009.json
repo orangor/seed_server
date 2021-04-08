@@ -1,0 +1,45 @@
+{
+    "responsecode": 200,
+    "data": [
+        {
+            "name": "养老保险基金支出",
+            "value": 61.4137,
+            "key": "ylbxjjzc"
+        },
+        {
+            "name": "基本医疗保险基金支出",
+            "value": 5.32,
+            "key": "yiliaobxjjzc"
+        },
+        {
+            "name": "失业保险基金支出",
+            "value": 7501.03,
+            "key": "shiyebxzc"
+        },
+        {
+            "name": "生育保险基金支出",
+            "value": 69,
+            "key": "shengyubxzc"
+        },
+        {
+            "name": "大病医疗补充保险资金当期支出",
+            "value": 69,
+            "key": "dbylbxzc"
+        },
+        {
+            "name": "工伤保险基金当期支出",
+            "value": 4505,
+            "key": "gsbxzc"
+        },
+        {
+            "name": "城镇大病保险资金当期支出",
+            "value": 69,
+            "key": "zcdbbxzc"
+        },
+        {
+            "name": "重特大疾病保险资金当期支出",
+            "value": 69,
+            "key": "ztdjbbxzc"
+        }
+    ]
+}

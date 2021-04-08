@@ -1,0 +1,10 @@
+{
+  "responsecode":200,
+  "data":[
+    {"jcrhbzzl":10,"result":[
+      {"name":"安岳县","value":90,"per":90},
+      {"name":"雁江区","value":80,"per":80},
+      {"name":"乐至县","value":50,"per":50}
+    ]}
+  ]
+}

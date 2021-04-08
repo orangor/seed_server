@@ -1,0 +1,7 @@
+{
+    "responsecode":200,
+    "data":[
+      {"name":"不合格批次","value":28},
+      {"name":"抽检批次","value":28}    
+    ]
+  } 

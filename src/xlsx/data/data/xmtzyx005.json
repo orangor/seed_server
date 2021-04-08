@@ -1,0 +1,9 @@
+{
+  "responsecode":200,
+  "data":[
+    { "value": 548, "name": "产业类","per":78},
+    { "value": 310, "name": "基础设施类","per":67},
+    { "value": 274, "name": "生产服务配套类","per":54},
+    { "value": 235, "name": "生活服务配套类","per":49}
+  ]
+}

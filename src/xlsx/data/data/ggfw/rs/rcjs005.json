@@ -1,0 +1,20 @@
+{
+    "responsecode": 200,
+    "data":[
+        {
+          "name": "一村一名大学生计划",
+          "value": "",
+          "key": "ycym"
+        },
+        {
+          "name": "基层卫生机构大学生志愿计划",
+          "value": "",
+          "key": "jcws"
+        },
+        {
+          "name": "农村特设老师岗位计划",
+          "value": "",
+          "key": "ncts"
+        }
+      ]
+}

@@ -1,0 +1,30 @@
+{
+    "responsecode": 200,
+    "data":[
+        {
+          "name": "职业技能鉴定所",
+          "value": 6,
+          "key": "zyjn"
+        },
+        {
+          "name": "国家级人力资源服务产业园",
+          "value": "",
+          "key": "gjrlzy"
+        },
+        {
+          "name": "全市流动人员人事档案数量",
+          "value": 13.6584,
+          "key": "qsldry"
+        },
+        {
+          "name": "公共人才服务机构",
+          "value": 4,
+          "key": "ggrcfwjg"
+        },
+        {
+          "name": "经营性人力资源服务机构",
+          "value": 0,
+          "key": "jyxrlzy"
+        }
+      ]
+}

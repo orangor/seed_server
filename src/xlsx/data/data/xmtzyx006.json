@@ -1,0 +1,9 @@
+{
+  "responsecode":200,
+  "data":[
+    { "value": 120, "name": "加快前期","per":47},
+    { "value": 103, "name": "新开工","per":40},
+    { "value": 32, "name": "续建","per":13}
+  ]
+}
+

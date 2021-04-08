@@ -1,0 +1,17 @@
+{
+    "responsecode": 200,
+    "data": [
+        {
+            "name": "发改委",
+            "value": 40
+        },
+        {
+            "name": "市场监管",
+            "value": 12
+        },
+        {
+            "name": "市自然资源局",
+            "value": 10
+        }
+    ]
+}

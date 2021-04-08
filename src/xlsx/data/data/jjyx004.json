@@ -1,0 +1,11 @@
+{
+    "responsecode":200,
+    "data":[
+          {"label":"2015","dycy":194,"decy":150,"dscy":190},
+          {"label":"2016","dycy":176.5,"decy":160,"dscy":123},
+          {"label":"2017","dycy":210.5,"decy":180,"dscy":203},
+          {"label":"2018","dycy":187,"decy":194,"dscy":130},
+          {"label":"2019","dycy":187,"decy":194,"dscy":130}
+
+      ]
+    }

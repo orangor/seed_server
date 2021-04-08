@@ -1,0 +1,9 @@
+{
+    "responsecode":200,
+    "data":[
+        {"label":"5月","bfsr":19.38,"bfsrtbzs":-4.32,"pfzc":5.18,"pfzctbzs":-11.4},
+        {"label":"6月","bfsr":22.75,"bfsrtbzs":-3.86,"pfzc":6.21,"pfzctbzs":-6.95},
+        {"label":"7月","bfsr":24.92,"bfsrtbzs":-2.7,"pfzc":7.35,"pfzctbzs":-3.54},
+        {"label":"8月","bfsr":27.54,"bfsrtbzs":-2.25,"pfzc":8.31,"pfzctbzs":-7.92}
+    ]
+}

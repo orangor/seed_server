@@ -1,0 +1,20 @@
+{
+  "responsecode":200,
+  "data":[
+    {
+      "name":"乐至县",
+      "zdxm":25,
+      "cygnq":8
+    },
+    {
+      "name":"安岳县",
+      "zdxm":41,
+      "cygnq":3
+    },
+    {
+      "name":"雁江区",
+      "zdxm":52,
+      "cygnq":3
+    }
+  ]
+}

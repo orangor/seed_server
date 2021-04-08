@@ -1,0 +1,12 @@
+{
+  "responsecode":200,
+  "data":[
+    {"jdzhlx":49,"result":[
+      {"label":"雁江区","value":10},
+      {"label":"安岳县","value":14},
+      {"label":"乐至县","value":14},
+      {"label":"临空经济区","value":1},
+      {"label":"市本级","value":10}
+    ]}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "responsecode":200,
+  "data":[
+    {"name":"危险化学品","value":450},
+    {"name":"油气管线","value":400},
+    {"name":"烟花爆竹","value":350},
+    {"name":"煤矿/非煤矿山","value":300},
+    {"name":"涉氨企业","value":370},
+    {"name":"涉粉尘企业","value":250},
+    {"name":"电力设施","value":220},
+    {"name":"商务楼宇","value":240}
+
+  ]
+}

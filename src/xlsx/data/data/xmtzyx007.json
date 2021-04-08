@@ -1,0 +1,12 @@
+{
+  "responsecode":200,
+  "data":[
+      {"name":"01","value":"—"},
+      {"name":"02","value":41.63},
+      {"name":"03","value":96.37},
+      {"name":"04","value":142.77},
+      {"name":"05","value":197.47},
+      {"name":"06","value":264.75},
+      {"name":"07","value":311.85}
+  ]
+}
