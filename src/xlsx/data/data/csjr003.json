@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-        {"label":"5月","grdk":426.95,"grdktbzs":14.54,"qydk":481.3,"qydktbzs":38.29},
-        {"label":"6月","grdk":435.11,"grdktbzs":16.84,"qydk":487.17,"qydktbzs":37.95},
-        {"label":"7月","grdk":440.31,"grdktbzs":17.43,"qydk":485.35,"qydktbzs":35.22},
-        {"label":"8月","grdk":444.55,"grdktbzs":17.53,"qydk":490.8,"qydktbzs":34.55}
-    ]
-}

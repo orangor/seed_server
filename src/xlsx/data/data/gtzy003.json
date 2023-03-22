@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-        {"label":"预留计划","tdgq":7.83},
-        {"label":"切块计划","tdgq":7.65},
-        {"label":"单列计划","tdgq":8.0},
-        {"label":"区县计划","tdgq":7.2}
-    ]
-}

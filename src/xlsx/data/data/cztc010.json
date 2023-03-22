@@ -1,9 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    {"label":"成都","value1":200,"value2":100,"value3":400,"line":20},
-    {"label":"德阳","value1":350,"value2":160,"value3":300,"line":40},
-    {"label":"眉山","value1":250,"value2":300,"value3":250,"line":30},
-    {"label":"资阳","value1":100,"value2":200,"value3":140,"line":45}
-  ]
-}

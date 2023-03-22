@@ -1,7 +1,0 @@
-{
-  "responsecode": 200,
-  "data": [
-    {"name": "地厅级", "per": 20,"value":15},
-    {"name": "重县处级", "per": 34,"value":45}
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    {"name":"一般隐患","value":30},
-    {"name":"重大隐患","value":70}
-  ]
-}

@@ -1,8 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    { "value": 231, "name": "农业","per":79},
-    { "value": 120, "name": "工业","per":56},
-    { "value": 98, "name": "服务业","per":34}
-  ]
-}

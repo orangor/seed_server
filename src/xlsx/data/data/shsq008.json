@@ -1,9 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    { "value": 348, "name": "国土资源","per":62},
-    { "value": 410, "name": "劳动和社会保障","per":56},
-    { "value": 274, "name": "城乡建设","per":44},
-    { "value": 265, "name": "政法","per":27}
-  ]
-}

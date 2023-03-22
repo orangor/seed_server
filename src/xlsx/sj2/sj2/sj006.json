@@ -1,8 +1,0 @@
-{
-  "responsecode": 200,
-  "data": [
-    {"label":"司法机关", "value": 0},
-    {"label":"纪检监察机关", "value": 6},
-    {"label":"有关部门", "value": 0}
-  ]
-}

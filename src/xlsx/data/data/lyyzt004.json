@@ -1,9 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    {"name":"I级保护林地","value":24},
-    {"name":"II级保护林地","value":30},
-    {"name":"III级保护林地","value":20},
-    {"name":"IV级保护林地","value":26}
-  ]
-}

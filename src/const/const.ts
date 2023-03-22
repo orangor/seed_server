@@ -7,11 +7,14 @@ const  enum LETTER {
     D = 4
 }
 interface CARD_CELL {
-    name: string
-    id: string
+    name: string;
+    nth: number;
+    id: string;
+    card_id: string
 }
 interface CARD_NODE {
     name: string;
-    list: CARD_CELL[]
+    nth: number;
+    id: string
 }
 export { ONE, LETTER, CARD_CELL, CARD_NODE }

@@ -1,8 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    {"name":"接入部门数","value":35},
-    {"name":"接入系统数","value":22},
-    {"name":"接入数据类","value":184}
-  ]
-}

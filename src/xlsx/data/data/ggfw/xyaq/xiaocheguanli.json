@@ -1,7 +1,0 @@
-{
-    "responsecode": 200,
-    "data":[
-        {"name":"专用车辆","value":102},
-        {"name":"许可车辆","value":102}
-      ]
-}

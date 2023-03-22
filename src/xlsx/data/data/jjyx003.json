@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-        {"label":"第一季度","dycy":194,"dycyzs":7.83,"decy":150,"decyzs":4.83,"dscy":190,"dscyzs":7.83},
-        {"label":"第二季度","dycy":176.5,"dycyzs":7.65,"decy":160,"decyzs":7.83,"dscy":120,"dscyzs":6.83},
-        {"label":"第三季度","dycy":210.5,"dycyzs":8.0,"decy":180,"decyzs":6.83,"dscy":200,"dscyzs":8.83},
-        {"label":"第四季度","dycy":187,"dycyzs":7.2,"decy":194,"decyzs":7.83,"dscy":130,"dscyzs":6.83}
-    ]
-}

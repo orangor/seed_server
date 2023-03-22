@@ -1,9 +1,0 @@
-{
-    "responsecode": 200,
-    "data":[
-        {"name":"马上办","value":56},
-        {"name":"一次办","value":28},
-        {"name":"网上办","value":30},
-        {"name":"就近办","value":32}
-      ]
-}

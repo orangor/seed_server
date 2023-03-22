@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-        {"label":"第一季度","dqsczz":194,"zs":7.83},
-        {"label":"第二季度","dqsczz":176.5,"zs":7.65},
-        {"label":"第三季度","dqsczz":210.5,"zs":8.0},
-        {"label":"第四季度","dqsczz":187,"zs":7.2}
-    ]
-}

@@ -1,9 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    {"name":"总项数","value": 140,"per": 100},
-    {"name":"完成项数","value": 105,"per": 75},
-    {"name":"加快推进项数","value": 105,"per": 75},
-    {"name":"启动实施项数","value": 105,"per": 75}
-  ]
-}

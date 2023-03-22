@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-      {"name":"地方性法规","value":1},
-      {"name":"政府规章","value":3},
-      {"name":"政府规章立法后评估类项目","value":3},
-      {"name":"地方性法规调研类项目","value":5}
-    ]
-  } 

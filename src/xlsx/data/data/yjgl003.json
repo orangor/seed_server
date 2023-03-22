@@ -1,8 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    {"name":"雁江区","fir":200,"sec":120,"thi":50,"fou":70},
-    {"name":"安岳县","fir":100,"sec":50,"thi":100,"fou":20},
-    {"name":"乐至县","fir":230,"sec":100,"thi":50,"fou":50}
-  ]
-}

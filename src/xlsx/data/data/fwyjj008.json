@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-        {"label":"商品零售总额","value":234},
-        {"label":"餐饮收入总额","value":231},
-        {"label":"社消零售总额","value":123}
-    ]
-  }
-  

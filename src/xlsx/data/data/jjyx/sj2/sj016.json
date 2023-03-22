@@ -1,8 +1,0 @@
-{
-  "responsecode": 200,
-  "data": [
-    {"name":"违规金额", "value": 231},
-    {"name":"损失浪费金额", "value": 421},
-    {"name":"管理不规范金额", "value": 89}
-  ]
-}

@@ -1,8 +1,0 @@
-{
-  "responsecode":200,
-  "data":[
-    {"name":"应急指挥信息系统1","type":"正常","url":"http://10.0.217.41:82/handle"},
-    {"name":"应急指挥信息系统2","type":"异常","url":"http://10.0.217.41:82/handle"},
-    {"name":"应急指挥信息系统3","type":"正常","url":"http://10.0.217.41:82/handle"}
-  ]
-}

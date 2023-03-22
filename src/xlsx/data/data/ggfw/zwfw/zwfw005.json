@@ -1,8 +1,0 @@
-{
-    "responsecode": 200,
-    "data":[
-      {"name":"超时件","value":30,"percent": 20.78},
-      {"name":"督办件","value":223,"percent": 82.39},
-      {"name":"预警件","value":274,"percent": 18.69}
-    ]
-}

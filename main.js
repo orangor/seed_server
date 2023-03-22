@@ -247,7 +247,7 @@ data25gngall.map((item) => {
     }
 })
 */
-
+/*
 let xttb = GET_ARRAY(`./src/xlsx/xtxt2.xlsx`)
 let xt1 = xttb[0].data
 let xt2 = xttb[1].data
@@ -267,6 +267,7 @@ xt2.map((item) => {
 
 })
 JSON_SAVE([nx1, nx2])
+*/
 
 /*
 ARRAY_SAVE([array], "./src/xlsx/d18c.xlsx",)
@@ -274,3 +275,26 @@ let array_t2 = [[{ Name: 'name_01', Age: 11, Address: 'address_01' }]];
 GET_JSON(`./src/xlsx/User.xlsx`)
 JSON_SAVE(array_t2)
 */
+/*
+require('dotenv').config(); // 加载环境变量
+
+const axios = require('axios');
+require('dotenv').config(); // 加载环境变量
+
+const prompt = 'Hello, how are you?';
+const max_tokens = 60;
+const temperature = 0.7;
+const API_URL = 'https://api.openai.com/v1/engines/davinci-codex/completions';
+
+axios.post(API_URL, {
+  prompt,
+  max_tokens,
+  temperature,
+  api_key: process.env.OPENAI_API_KEY,
+})
+  .then(response => {
+    console.log(response.data.choices[0].text.trim());
+  })
+  .catch(error => {
+    console.error(error);
+  });*/

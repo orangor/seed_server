@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-        {"label":"5月","ck":1575.33,"cktbzs":4.82,"dk":956.21,"dktbzs":27.87},
-        {"label":"6月","ck":1586.89,"cktbzs":4.75,"dk":968.75,"dktbzs":27.91},
-        {"label":"7月","ck":1581.88,"cktbzs":4.55,"dk":970.72,"dktbzs":26.61},
-        {"label":"8月","ck":1598.86,"cktbzs":5.67,"dk":980.56,"dktbzs":26.38}
-    ]
-}

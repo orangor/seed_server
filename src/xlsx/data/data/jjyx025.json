@@ -1,9 +1,0 @@
-{
-    "responsecode":200,
-    "data":[
-        {"label":"2017","lscl":120,"nzwbzmj":210},
-        {"label":"2018","lscl":102,"nzwbzmj":80},
-        {"label":"2019","lscl":101,"nzwbzmj":100},
-        {"label":"2020","lscl":180,"nzwbzmj":250}
-    ]
-} 

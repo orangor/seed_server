@@ -1,8 +1,0 @@
-{
-    "responsecode": 200,
-    "data":[
-        {"name":"评定高级职称占比","value":8},
-        {"name":"评定中级职称占比","value":21},
-        {"name":"评定初级职称占比","value":33}
-      ]
-}
